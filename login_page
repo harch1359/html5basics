@@ -1,0 +1,12 @@
+<html>
+<head>
+  <title>HI</title>
+</head>
+<body>
+    <form>
+        username : <input type="text" name="usr" ></br>
+        password : <input type="password" name="pwd"></br>
+        <input type="button" name="log" value="login">
+    </form> 
+</body>
+  
